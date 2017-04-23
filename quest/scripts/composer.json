@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^1.10",
+        "twilio/sdk": "^5.7"
+    }
+}
